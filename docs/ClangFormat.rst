@@ -168,7 +168,8 @@ shortcut in the BBEdit preferences, under Menus & Shortcuts.
 CLion Integration
 ==================
 
-:program:`clang-format` is integrated into CLion as an alternative code
+:program:`clang-format` is integrated into `CLion <https://www.jetbrains
+.com/clion/>`_ as an alternative code
 formatter. It is disabled by default and can be turned on in
 Settings/Preferences | Editor | Code Style.
 
